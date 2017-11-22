@@ -34,7 +34,7 @@
     "get-pixels": "*",
     "serialport": "*",
     "qr-image": "*",
-    "usb": "git://github.com/tessel/node-usb.git#1.3.0"
+    "usb": "git://github.com/cevn/node-usb.git#master"
   },
   "devDependencies": {
     "mocha": "*"
